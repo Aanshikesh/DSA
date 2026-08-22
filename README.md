@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Aanshikesh/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aanshikesh/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aanshikesh/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Aanshikesh/DSA/tree/master/1791-find-center-of-star-graph) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Aanshikesh/DSA/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 ## Bucket Sort
 |  |
 | ------- |
