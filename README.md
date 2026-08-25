@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aanshikesh/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aanshikesh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Aanshikesh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aanshikesh/DSA/tree/master/0704-binary-search) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aanshikesh/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aanshikesh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Aanshikesh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aanshikesh/DSA/tree/master/0704-binary-search) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aanshikesh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanshikesh/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
@@ -233,4 +237,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Aanshikesh/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
