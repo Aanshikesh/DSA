@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aanshikesh/DSA/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Aanshikesh/DSA/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aanshikesh/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Aanshikesh/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Aanshikesh/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Aanshikesh/DSA/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanshikesh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Trie
@@ -302,11 +304,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aanshikesh/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Aanshikesh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Aanshikesh/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Aanshikesh/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aanshikesh/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aanshikesh/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Aanshikesh/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aanshikesh/DSA/tree/master/0206-reverse-linked-list) |
 ## Merge Sort
 |  |
