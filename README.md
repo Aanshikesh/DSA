@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aanshikesh/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aanshikesh/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aanshikesh/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Aanshikesh/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Aanshikesh/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aanshikesh/DSA/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Aanshikesh/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aanshikesh/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aanshikesh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aanshikesh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aanshikesh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aanshikesh/DSA/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/Aanshikesh/DSA/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aanshikesh/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [4020-elevator-requests-i](https://github.com/Aanshikesh/DSA/tree/master/4020-elevator-requests-i) |
