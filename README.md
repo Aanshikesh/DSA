@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aanshikesh/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Aanshikesh/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aanshikesh/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Aanshikesh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aanshikesh/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aanshikesh/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Aanshikesh/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aanshikesh/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aanshikesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aanshikesh/DSA/tree/master/0152-maximum-product-subarray) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aanshikesh/DSA/tree/master/0042-trapping-rain-water) |
 | [1021-remove-outermost-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aanshikesh/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Aanshikesh/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aanshikesh/DSA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Aanshikesh/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanshikesh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Trie
@@ -259,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aanshikesh/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
