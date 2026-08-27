@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aanshikesh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aanshikesh/DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Aanshikesh/DSA/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Aanshikesh/DSA/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4020-elevator-requests-i](https://github.com/Aanshikesh/DSA/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Aanshikesh/DSA/tree/master/4024-nearest-available-drone) |
 ## Sorting
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aanshikesh/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Aanshikesh/DSA/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aanshikesh/DSA/tree/master/0410-split-array-largest-sum) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aanshikesh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Aanshikesh/DSA/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+| [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Aanshikesh/DSA/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 ## Hash Table
 |  |
 | ------- |
