@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aanshikesh/DSA/tree/master/0013-roman-to-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aanshikesh/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aanshikesh/DSA/tree/master/0189-rotate-array) |
+| [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Aanshikesh/DSA/tree/master/0415-add-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -386,4 +387,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Aanshikesh/DSA/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
