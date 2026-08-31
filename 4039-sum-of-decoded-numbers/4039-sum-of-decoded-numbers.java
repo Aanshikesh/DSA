@@ -1,8 +1,8 @@
 class Solution {
     public int sumDecoded(long[] nums) {
-        int n=nums.length;
+        int   n=nums.length;
         long  sum=0;
-        long MOD = 1000000007L;
+        long  MOD = 1000000007L;
         for(int i=0;i<n;i++){
             long width =nums[i] %10;
             long d = nums[i] / 10;
@@ -16,7 +16,7 @@ class Solution {
             
             long divisor =1;
             for(int j=0;j<digits-width;j++){
-                divisor *= 10;
+                divisor*= 10;
             }
 
             long y = d % divisor;
