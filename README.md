@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aanshikesh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aanshikesh/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Aanshikesh/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aanshikesh/DSA/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Aanshikesh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aanshikesh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aanshikesh/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Aanshikesh/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aanshikesh/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Aanshikesh/DSA/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Aanshikesh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aanshikesh/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Aanshikesh/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Aanshikesh/DSA/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Aanshikesh/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aanshikesh/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Aanshikesh/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aanshikesh/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aanshikesh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Aanshikesh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Aanshikesh/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aanshikesh/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aanshikesh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Aanshikesh/DSA/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Matrix
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aanshikesh/DSA/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
@@ -444,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/Aanshikesh/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aanshikesh/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Aanshikesh/DSA/tree/master/1934-confirmation-rate) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aanshikesh/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
