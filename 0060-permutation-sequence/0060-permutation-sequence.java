@@ -1,29 +1,21 @@
 class Solution {
-    HashSet<Integer>st = new HashSet<>();
-    StringBuilder sb = new StringBuilder();
-    int nn;
-    int find(int n){
-        int ans = 1;
-        for(int k = n;k>=1;k--) ans*=k;
-        return ans;
-    }
-    void solve(int i,int k){
-        if(i>=nn) return;
-
-        for(int j = 1;j<=nn;j++){
-            if(st.contains(j)) continue;
-            int cnt = find(nn-i-1);
-            if(cnt>=k){
-                st.add(j);
-                sb.append(j);
-                solve(i+1,k);
-            }
-            k-=cnt;
-        }
-    }
     public String getPermutation(int n, int k) {
-        nn = n;
-        solve(0,k);
-        return sb.toString();
+        int fact =1;
+        List<Integer> num = new ArrayList<>();
+        for(int i=1;i<n;i++){
+            fact*=i;
+            num.add(i);
+        }
+        num.add(n);
+        String ans = "";
+        k = k-1;
+        while(true){
+            ans = ans + num.get(k/fact);
+            num.remove(k/fact);
+            if(num.size()==0) break;
+            k = k%fact;
+            fact = fact/num.size();
+        }
+        return ans;
     }
 }
