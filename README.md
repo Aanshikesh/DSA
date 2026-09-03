@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aanshikesh/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Aanshikesh/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Aanshikesh/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Aanshikesh/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Aanshikesh/DSA/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aanshikesh/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aanshikesh/DSA/tree/master/0189-rotate-array) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aanshikesh/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aanshikesh/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Aanshikesh/DSA/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Aanshikesh/DSA/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Aanshikesh/DSA/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Aanshikesh/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Aanshikesh/DSA/tree/master/0206-reverse-linked-list) |
