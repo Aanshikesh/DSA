@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aanshikesh/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aanshikesh/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aanshikesh/DSA/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Aanshikesh/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Aanshikesh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aanshikesh/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Aanshikesh/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aanshikesh/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aanshikesh/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Aanshikesh/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aanshikesh/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Trie
@@ -531,4 +534,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Aanshikesh/DSA/tree/master/0051-n-queens) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aanshikesh/DSA/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aanshikesh/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
