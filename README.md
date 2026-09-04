@@ -564,4 +564,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aanshikesh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aanshikesh/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
