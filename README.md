@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aanshikesh/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Aanshikesh/DSA/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/Aanshikesh/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Aanshikesh/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Aanshikesh/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aanshikesh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Aanshikesh/DSA/tree/master/0165-compare-version-numbers) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aanshikesh/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aanshikesh/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Aanshikesh/DSA/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Aanshikesh/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aanshikesh/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aanshikesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aanshikesh/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
