@@ -1,37 +1,29 @@
 class Solution {
     public int countGoodRotations(int[] nums) {
-
+        int ans = 0;
         int n = nums.length;
-        int count = 0;
-
-        int leftS = 0;
-        int rightS = 0;
-
-        int left = n / 2;
-
-        // Initial split
-        for (int i = 0; i < left; i++) {
-            leftS += nums[i];
+        long left_sum = 0;
+        long right_sum = 0;
+        int middle = n/2;  // n-1 not included
+        for(int i = 0 ; i < n/2 ; i++){
+            left_sum+= nums[i];
         }
-
-        for (int i = left; i < n; i++) {
-            rightS += nums[i];
+        for(int i = n/2 ; i < n ; i++){
+            right_sum+= nums[i];
+        }            
+        // System.out.println("Value : "+left_sum+" = "+right_sum);
+        if(left_sum != right_sum){
+            ans++;
         }
-
-        for (int i = 0; i < n; i++) {
-
-            if (leftS > rightS) {
-                count++;
+        int index = 0;
+        for(int i = middle ; i < n-1 ; i++){
+            left_sum = left_sum - nums[index] + nums[i];
+            right_sum = right_sum + nums[index++] - nums[i];
+            // System.out.println("Value : "+left_sum+" = "+right_sum);
+            if(left_sum != right_sum){
+                ans++;
             }
-
-            // Move to next rotation
-            int outgoingLeft = nums[(i) % n];
-            int incomingLeft = nums[(i + left) % n];
-
-            leftS = leftS - outgoingLeft + incomingLeft;
-            rightS = rightS - incomingLeft + outgoingLeft;
         }
-
-        return count;
+        return ans;
     }
 }
