@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aanshikesh/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aanshikesh/DSA/tree/master/0704-binary-search) |
+| [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aanshikesh/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanshikesh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aanshikesh/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Aanshikesh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
+| [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Aanshikesh/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aanshikesh/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aanshikesh/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aanshikesh/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Aanshikesh/DSA/tree/master/0496-next-greater-element-i) |
+| [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aanshikesh/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aanshikesh/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Aanshikesh/DSA/tree/master/0496-next-greater-element-i) |
+| [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 ## Quicksort
 |  |
 | ------- |
