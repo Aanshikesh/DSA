@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Aanshikesh/DSA/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
 | [4020-elevator-requests-i](https://github.com/Aanshikesh/DSA/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Aanshikesh/DSA/tree/master/4024-nearest-available-drone) |
+| [4054-count-shadow-pairs-i](https://github.com/Aanshikesh/DSA/tree/master/4054-count-shadow-pairs-i) |
 ## Sorting
 |  |
 | ------- |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [4054-count-shadow-pairs-i](https://github.com/Aanshikesh/DSA/tree/master/4054-count-shadow-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aanshikesh/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aanshikesh/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
+| [4054-count-shadow-pairs-i](https://github.com/Aanshikesh/DSA/tree/master/4054-count-shadow-pairs-i) |
 ## Quicksort
 |  |
 | ------- |
