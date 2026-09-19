@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aanshikesh/DSA/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Aanshikesh/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Aanshikesh/DSA/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aanshikesh/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aanshikesh/DSA/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aanshikesh/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aanshikesh/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Aanshikesh/DSA/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Aanshikesh/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aanshikesh/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aanshikesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aanshikesh/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aanshikesh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aanshikesh/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aanshikesh/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aanshikesh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Aanshikesh/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aanshikesh/DSA/tree/master/0098-validate-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
