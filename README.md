@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Aanshikesh/DSA/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Aanshikesh/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Aanshikesh/DSA/tree/master/0072-edit-distance) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aanshikesh/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Aanshikesh/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Aanshikesh/DSA/tree/master/0118-pascals-triangle) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aanshikesh/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aanshikesh/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aanshikesh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aanshikesh/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aanshikesh/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aanshikesh/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aanshikesh/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aanshikesh/DSA/tree/master/0098-validate-binary-search-tree) |
 ## Binary Indexed Tree
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aanshikesh/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Aanshikesh/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Aanshikesh/DSA/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Aanshikesh/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 ## Algorithm X
 |  |
 | ------- |
