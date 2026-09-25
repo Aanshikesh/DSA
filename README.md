@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Aanshikesh/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aanshikesh/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aanshikesh/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0149-max-points-on-a-line](https://github.com/Aanshikesh/DSA/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Aanshikesh/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aanshikesh/DSA/tree/master/0162-find-peak-element) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Aanshikesh/DSA/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Aanshikesh/DSA/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Aanshikesh/DSA/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aanshikesh/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Aanshikesh/DSA/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Aanshikesh/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Aanshikesh/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aanshikesh/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/Aanshikesh/DSA/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aanshikesh/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aanshikesh/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Aanshikesh/DSA/tree/master/0205-isomorphic-strings) |
@@ -747,6 +750,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Aanshikesh/DSA/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/Aanshikesh/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aanshikesh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Aanshikesh/DSA/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Aanshikesh/DSA/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
