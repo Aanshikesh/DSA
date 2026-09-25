@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Aanshikesh/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Aanshikesh/DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aanshikesh/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Aanshikesh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/Aanshikesh/DSA/tree/master/0785-is-graph-bipartite) |
+| [0938-range-sum-of-bst](https://github.com/Aanshikesh/DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aanshikesh/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Aanshikesh/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0938-range-sum-of-bst](https://github.com/Aanshikesh/DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aanshikesh/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Pigeonhole Principle
@@ -587,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Aanshikesh/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Aanshikesh/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aanshikesh/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Aanshikesh/DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Indexed Tree
 |  |
 | ------- |
