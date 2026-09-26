@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aanshikesh/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanshikesh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aanshikesh/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Aanshikesh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
 | [1207-unique-number-of-occurrences](https://github.com/Aanshikesh/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aanshikesh/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aanshikesh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Aanshikesh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aanshikesh/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Aanshikesh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aanshikesh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/Aanshikesh/DSA/tree/master/1529-minimum-suffix-flips) |
