@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4054-count-shadow-pairs-i](https://github.com/Aanshikesh/DSA/tree/master/4054-count-shadow-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Aanshikesh/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/Aanshikesh/DSA/tree/master/4062-transform-array-using-pair-operations) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Aanshikesh/DSA/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/Aanshikesh/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Aanshikesh/DSA/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Aanshikesh/DSA/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Aanshikesh/DSA/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Aanshikesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aanshikesh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Aanshikesh/DSA/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Union-Find
 |  |
 | ------- |
