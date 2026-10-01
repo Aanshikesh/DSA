@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4024-nearest-available-drone](https://github.com/Aanshikesh/DSA/tree/master/4024-nearest-available-drone) |
 | [4054-count-shadow-pairs-i](https://github.com/Aanshikesh/DSA/tree/master/4054-count-shadow-pairs-i) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/Aanshikesh/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4062-transform-array-using-pair-operations](https://github.com/Aanshikesh/DSA/tree/master/4062-transform-array-using-pair-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
+| [4062-transform-array-using-pair-operations](https://github.com/Aanshikesh/DSA/tree/master/4062-transform-array-using-pair-operations) |
 ## Minimax
 |  |
 | ------- |
