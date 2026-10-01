@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4020-elevator-requests-i](https://github.com/Aanshikesh/DSA/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/Aanshikesh/DSA/tree/master/4024-nearest-available-drone) |
 | [4054-count-shadow-pairs-i](https://github.com/Aanshikesh/DSA/tree/master/4054-count-shadow-pairs-i) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Aanshikesh/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Aanshikesh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aanshikesh/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aanshikesh/DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4061-minimum-queen-moves-to-reach-target](https://github.com/Aanshikesh/DSA/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Binary Search
 |  |
 | ------- |
