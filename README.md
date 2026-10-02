@@ -524,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Aanshikesh/DSA/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/Aanshikesh/DSA/tree/master/0785-is-graph-bipartite) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Aanshikesh/DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -742,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aanshikesh/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Aanshikesh/DSA/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aanshikesh/DSA/tree/master/0095-unique-binary-search-trees-ii) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Aanshikesh/DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Algorithm X
 |  |
 | ------- |
