@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aanshikesh/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Aanshikesh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Aanshikesh/DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aanshikesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aanshikesh/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aanshikesh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aanshikesh/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Aanshikesh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Aanshikesh/DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Linked List
 |  |
 | ------- |
