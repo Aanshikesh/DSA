@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Aanshikesh/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2810-faulty-keyboard](https://github.com/Aanshikesh/DSA/tree/master/2810-faulty-keyboard) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aanshikesh/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aanshikesh/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aanshikesh/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aanshikesh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Aanshikesh/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Greedy
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aanshikesh/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Aanshikesh/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aanshikesh/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Divide and Conquer
 |  |
