@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aanshikesh/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aanshikesh/DSA/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/Aanshikesh/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aanshikesh/DSA/tree/master/0875-koko-eating-bananas) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Aanshikesh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
+| [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Aanshikesh/DSA/tree/master/1288-remove-covered-intervals) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aanshikesh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Aanshikesh/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Aanshikesh/DSA/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Aanshikesh/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aanshikesh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aanshikesh/DSA/tree/master/0496-next-greater-element-i) |
+| [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/Aanshikesh/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/Aanshikesh/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aanshikesh/DSA/tree/master/0014-longest-common-prefix) |
+| [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 ## String Matching
 |  |
 | ------- |
