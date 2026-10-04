@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aanshikesh/DSA/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Aanshikesh/DSA/tree/master/0386-lexicographical-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 ## String Matching
 |  |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aanshikesh/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Aanshikesh/DSA/tree/master/0386-lexicographical-numbers) |
 | [0572-subtree-of-another-tree](https://github.com/Aanshikesh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/Aanshikesh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/Aanshikesh/DSA/tree/master/0938-range-sum-of-bst) |
