@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aanshikesh/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aanshikesh/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Aanshikesh/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Aanshikesh/DSA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aanshikesh/DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Aanshikesh/DSA/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4012-count-of-unfinished-tasks-after-each-shift](https://github.com/Aanshikesh/DSA/tree/master/4012-count-of-unfinished-tasks-after-each-shift) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aanshikesh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aanshikesh/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3951-minimum-energy-to-maintain-brightness](https://github.com/Aanshikesh/DSA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Aanshikesh/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
