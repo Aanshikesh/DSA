@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aanshikesh/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aanshikesh/DSA/tree/master/0875-koko-eating-bananas) |
+| [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanshikesh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aanshikesh/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Aanshikesh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
 | [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
+| [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Aanshikesh/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aanshikesh/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Aanshikesh/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aanshikesh/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Aanshikesh/DSA/tree/master/0836-rectangle-overlap) |
+| [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
 | [1017-convert-to-base-2](https://github.com/Aanshikesh/DSA/tree/master/1017-convert-to-base-2) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aanshikesh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aanshikesh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Aanshikesh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Aanshikesh/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aanshikesh/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Aanshikesh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aanshikesh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
