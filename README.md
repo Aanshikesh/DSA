@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aanshikesh/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aanshikesh/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aanshikesh/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Aanshikesh/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Aanshikesh/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aanshikesh/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/Aanshikesh/DSA/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aanshikesh/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/Aanshikesh/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [4020-elevator-requests-i](https://github.com/Aanshikesh/DSA/tree/master/4020-elevator-requests-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Aanshikesh/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting Sort
