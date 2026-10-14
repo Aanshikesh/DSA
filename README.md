@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Aanshikesh/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Aanshikesh/DSA/tree/master/1791-find-center-of-star-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
+| [3310-remove-methods-from-project](https://github.com/Aanshikesh/DSA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Aanshikesh/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aanshikesh/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3310-remove-methods-from-project](https://github.com/Aanshikesh/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Aanshikesh/DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Aanshikesh/DSA/tree/master/1361-validate-binary-tree-nodes) |
+| [3310-remove-methods-from-project](https://github.com/Aanshikesh/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
