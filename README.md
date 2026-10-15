@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aanshikesh/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aanshikesh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aanshikesh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aanshikesh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Aanshikesh/DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanshikesh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aanshikesh/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aanshikesh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/Aanshikesh/DSA/tree/master/3951-minimum-energy-to-maintain-brightness) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Aanshikesh/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aanshikesh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aanshikesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aanshikesh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aanshikesh/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/Aanshikesh/DSA/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Aanshikesh/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
