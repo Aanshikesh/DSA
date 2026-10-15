@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/Aanshikesh/DSA/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Aanshikesh/DSA/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Aanshikesh/DSA/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aanshikesh/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aanshikesh/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Aanshikesh/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aanshikesh/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aanshikesh/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Aanshikesh/DSA/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 ## Divide and Conquer
 |  |
 | ------- |
