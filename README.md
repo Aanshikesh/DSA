@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Aanshikesh/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Aanshikesh/DSA/tree/master/1550-three-consecutive-odds) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aanshikesh/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aanshikesh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1711-count-good-meals](https://github.com/Aanshikesh/DSA/tree/master/1711-count-good-meals) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aanshikesh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aanshikesh/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanshikesh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aanshikesh/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aanshikesh/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Aanshikesh/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Aanshikesh/DSA/tree/master/0410-split-array-largest-sum) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aanshikesh/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aanshikesh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aanshikesh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Aanshikesh/DSA/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aanshikesh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/Aanshikesh/DSA/tree/master/1529-minimum-suffix-flips) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aanshikesh/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aanshikesh/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Aanshikesh/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
