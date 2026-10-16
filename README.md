@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aanshikesh/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Aanshikesh/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Aanshikesh/DSA/tree/master/1550-three-consecutive-odds) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aanshikesh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1711-count-good-meals](https://github.com/Aanshikesh/DSA/tree/master/1711-count-good-meals) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Aanshikesh/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aanshikesh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanshikesh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aanshikesh/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
 | [1017-convert-to-base-2](https://github.com/Aanshikesh/DSA/tree/master/1017-convert-to-base-2) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aanshikesh/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aanshikesh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1053-previous-permutation-with-one-swap](https://github.com/Aanshikesh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aanshikesh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1529-minimum-suffix-flips](https://github.com/Aanshikesh/DSA/tree/master/1529-minimum-suffix-flips) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aanshikesh/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Aanshikesh/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -759,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Nim Game
 |  |
 | ------- |
