@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aanshikesh/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Aanshikesh/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Aanshikesh/DSA/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aanshikesh/DSA/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Aanshikesh/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Aanshikesh/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Aanshikesh/DSA/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aanshikesh/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Aanshikesh/DSA/tree/master/0875-koko-eating-bananas) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aanshikesh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Aanshikesh/DSA/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/Aanshikesh/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Aanshikesh/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Aanshikesh/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
