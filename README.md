@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aanshikesh/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Aanshikesh/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2810-faulty-keyboard](https://github.com/Aanshikesh/DSA/tree/master/2810-faulty-keyboard) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1995-count-special-quadruplets](https://github.com/Aanshikesh/DSA/tree/master/1995-count-special-quadruplets) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Aanshikesh/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aanshikesh/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aanshikesh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Aanshikesh/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/Aanshikesh/DSA/tree/master/1995-count-special-quadruplets) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aanshikesh/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aanshikesh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aanshikesh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aanshikesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
