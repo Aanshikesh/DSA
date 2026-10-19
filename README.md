@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-count-good-meals](https://github.com/Aanshikesh/DSA/tree/master/1711-count-good-meals) |
 | [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Aanshikesh/DSA/tree/master/1816-truncate-sentence) |
 | [1901-find-a-peak-element-ii](https://github.com/Aanshikesh/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1995-count-special-quadruplets](https://github.com/Aanshikesh/DSA/tree/master/1995-count-special-quadruplets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aanshikesh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/Aanshikesh/DSA/tree/master/1529-minimum-suffix-flips) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aanshikesh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1816-truncate-sentence](https://github.com/Aanshikesh/DSA/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aanshikesh/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
