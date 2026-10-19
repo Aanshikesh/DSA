@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aanshikesh/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aanshikesh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1675-minimize-deviation-in-array](https://github.com/Aanshikesh/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [1711-count-good-meals](https://github.com/Aanshikesh/DSA/tree/master/1711-count-good-meals) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/Aanshikesh/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-minimum-suffix-flips](https://github.com/Aanshikesh/DSA/tree/master/1529-minimum-suffix-flips) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aanshikesh/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1675-minimize-deviation-in-array](https://github.com/Aanshikesh/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aanshikesh/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Aanshikesh/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/Aanshikesh/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1675-minimize-deviation-in-array](https://github.com/Aanshikesh/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanshikesh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aanshikesh/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -850,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Aanshikesh/DSA/tree/master/0493-reverse-pairs) |
+| [1675-minimize-deviation-in-array](https://github.com/Aanshikesh/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Aanshikesh/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Treap
 |  |
