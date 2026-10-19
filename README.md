@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Aanshikesh/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Aanshikesh/DSA/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aanshikesh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/Aanshikesh/DSA/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aanshikesh/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aanshikesh/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Aanshikesh/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aanshikesh/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/Aanshikesh/DSA/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aanshikesh/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aanshikesh/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aanshikesh/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
+| [2871-split-array-into-maximum-number-of-subarrays](https://github.com/Aanshikesh/DSA/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3133-minimum-array-end](https://github.com/Aanshikesh/DSA/tree/master/3133-minimum-array-end) |
