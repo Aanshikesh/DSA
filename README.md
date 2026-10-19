@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aanshikesh/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aanshikesh/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3207-maximum-points-after-enemy-battles](https://github.com/Aanshikesh/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Aanshikesh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Aanshikesh/DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aanshikesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/Aanshikesh/DSA/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aanshikesh/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3207-maximum-points-after-enemy-battles](https://github.com/Aanshikesh/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Aanshikesh/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/Aanshikesh/DSA/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
