@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aanshikesh/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-minimize-deviation-in-array](https://github.com/Aanshikesh/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [1711-count-good-meals](https://github.com/Aanshikesh/DSA/tree/master/1711-count-good-meals) |
+| [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aanshikesh/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/Aanshikesh/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1995-count-special-quadruplets](https://github.com/Aanshikesh/DSA/tree/master/1995-count-special-quadruplets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aanshikesh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Aanshikesh/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Aanshikesh/DSA/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aanshikesh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanshikesh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aanshikesh/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aanshikesh/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aanshikesh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Aanshikesh/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Greedy
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Aanshikesh/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Aanshikesh/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aanshikesh/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Trie
 |  |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Aanshikesh/DSA/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Aanshikesh/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3133-minimum-array-end](https://github.com/Aanshikesh/DSA/tree/master/3133-minimum-array-end) |
@@ -968,4 +973,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/Aanshikesh/DSA/tree/master/3835-count-subarrays-with-cost-less-than-or-equal-to-k) |
+## Meet in the Middle
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
