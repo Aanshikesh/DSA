@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Aanshikesh/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aanshikesh/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Aanshikesh/DSA/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aanshikesh/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Aanshikesh/DSA/tree/master/0796-rotate-string) |
