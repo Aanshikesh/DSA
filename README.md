@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aanshikesh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Aanshikesh/DSA/tree/master/2235-add-two-integers) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Aanshikesh/DSA/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aanshikesh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Aanshikesh/DSA/tree/master/3492-maximum-containers-on-a-ship) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aanshikesh/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aanshikesh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1755-closest-subsequence-sum](https://github.com/Aanshikesh/DSA/tree/master/1755-closest-subsequence-sum) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Aanshikesh/DSA/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Aanshikesh/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 ## Greedy
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Aanshikesh/DSA/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Aanshikesh/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Aanshikesh/DSA/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
 |  |
