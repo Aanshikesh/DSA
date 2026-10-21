@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aanshikesh/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aanshikesh/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Aanshikesh/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2706-buy-two-chocolates](https://github.com/Aanshikesh/DSA/tree/master/2706-buy-two-chocolates) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Aanshikesh/DSA/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aanshikesh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/Aanshikesh/DSA/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aanshikesh/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Aanshikesh/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2706-buy-two-chocolates](https://github.com/Aanshikesh/DSA/tree/master/2706-buy-two-chocolates) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aanshikesh/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aanshikesh/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Aanshikesh/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Aanshikesh/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2706-buy-two-chocolates](https://github.com/Aanshikesh/DSA/tree/master/2706-buy-two-chocolates) |
 | [2871-split-array-into-maximum-number-of-subarrays](https://github.com/Aanshikesh/DSA/tree/master/2871-split-array-into-maximum-number-of-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Aanshikesh/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Aanshikesh/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
