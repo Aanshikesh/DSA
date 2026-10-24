@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/Aanshikesh/DSA/tree/master/2235-add-two-integers) |
 | [2400-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/Aanshikesh/DSA/tree/master/2400-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+| [2409-count-days-spent-together](https://github.com/Aanshikesh/DSA/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aanshikesh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Aanshikesh/DSA/tree/master/3492-maximum-containers-on-a-ship) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Aanshikesh/DSA/tree/master/1816-truncate-sentence) |
 | [1903-largest-odd-number-in-string](https://github.com/Aanshikesh/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aanshikesh/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2409-count-days-spent-together](https://github.com/Aanshikesh/DSA/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Aanshikesh/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2522-partition-string-into-substrings-with-values-at-most-k](https://github.com/Aanshikesh/DSA/tree/master/2522-partition-string-into-substrings-with-values-at-most-k) |
 | [2810-faulty-keyboard](https://github.com/Aanshikesh/DSA/tree/master/2810-faulty-keyboard) |
