@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Aanshikesh/DSA/tree/master/0875-koko-eating-bananas) |
 | [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Aanshikesh/DSA/tree/master/0912-sort-an-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Aanshikesh/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanshikesh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aanshikesh/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Aanshikesh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/Aanshikesh/DSA/tree/master/0912-sort-an-array) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Aanshikesh/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Aanshikesh/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Aanshikesh/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aanshikesh/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aanshikesh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Aanshikesh/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aanshikesh/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1053-previous-permutation-with-one-swap](https://github.com/Aanshikesh/DSA/tree/master/1053-previous-permutation-with-one-swap) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aanshikesh/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aanshikesh/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Aanshikesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Aanshikesh/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Aanshikesh/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Aanshikesh/DSA/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Aanshikesh/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
