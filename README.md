@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Aanshikesh/DSA/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Aanshikesh/DSA/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aanshikesh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Aanshikesh/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aanshikesh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Aanshikesh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aanshikesh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Aanshikesh/DSA/tree/master/0802-find-eventual-safe-states) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aanshikesh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aanshikesh/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1361-validate-binary-tree-nodes](https://github.com/Aanshikesh/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Aanshikesh/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Aanshikesh/DSA/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Aanshikesh/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Aanshikesh/DSA/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aanshikesh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Aanshikesh/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aanshikesh/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Aanshikesh/DSA/tree/master/3310-remove-methods-from-project) |
@@ -744,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aanshikesh/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aanshikesh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aanshikesh/DSA/tree/master/1254-number-of-closed-islands) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aanshikesh/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Aanshikesh/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [3310-remove-methods-from-project](https://github.com/Aanshikesh/DSA/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aanshikesh/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
