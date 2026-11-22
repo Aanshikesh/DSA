@@ -1,63 +1,130 @@
-class Solution {
-    private int m, n;
-    private final int[][] directions = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-    
-    private int DFS(int[][] grid, int i, int j, int id) {
-        if (i < 0 || i >= m || j < 0 || j >= n || grid[i][j] != 1) {
-            return 0;
+
+class DSU {
+    int[] parent, size;
+
+    DSU(int n) {
+        parent = new int[n];
+        size = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+            size[i] = 1;
         }
-        
-        grid[i][j] = id;
-        int count = 1;
-        
-        for (int[] dir : directions) {
-            int x = i + dir[0];
-            int y = j + dir[1];
-            count += DFS(grid, x, y, id);
-        }
-        
-        return count;
     }
-    
+
+    int find(int node) {
+        if (parent[node] == node) return node;
+        return parent[node] = find(parent[node]);
+    }
+
+    void union(int u, int v) {
+        int pu = find(u);
+        int pv = find(v);
+
+        if (pu == pv) return;
+
+        if (size[pu] < size[pv]) {
+            parent[pu] = pv;
+            size[pv] += size[pu];
+        } else {
+            parent[pv] = pu;
+            size[pu] += size[pv];
+        }
+    }
+}
+
+class Solution {
+    int[] dr = {-1, 1, 0, 0};
+    int[] dc = {0, 0, -1, 1};
+
+    void dfs(int r, int c, int[][] grid,
+             boolean[][] visited, DSU ds) {
+
+        int m = grid.length;
+        int n = grid[0].length;
+
+        visited[r][c] = true;
+
+        int index = r * n + c;
+
+        for (int k = 0; k < 4; k++) {
+            int nr = r + dr[k];
+            int nc = c + dc[k];
+
+            if (nr >= 0 && nr < m &&
+                nc >= 0 && nc < n &&
+                grid[nr][nc] == 1) {
+
+                int newIndex = nr * n + nc;
+
+                ds.union(index, newIndex);
+
+                if (!visited[nr][nc]) {
+                    dfs(nr, nc, grid, visited, ds);
+                }
+            }
+        }
+    }
+
     public int largestIsland(int[][] grid) {
-        m = grid.length;
-        n = grid[0].length;
-        int maxArea = 0;
-        Map<Integer, Integer> islandSizes = new HashMap<>();
-        int islandId = 2;
-        
+        int m = grid.length;
+        int n = grid[0].length;
+
+        DSU ds = new DSU(m * n);
+        boolean[][] visited = new boolean[m][n];
+
+        // Step 1: Group all islands using DFS + DSU
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1 && !visited[i][j]) {
+                    dfs(i, j, grid, visited, ds);
+                }
+            }
+        }
+
+        int ans = 0;
+
+        // Step 2: Try converting every 0 to 1
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+
+                if (grid[i][j] == 0) {
+                    HashSet<Integer> set = new HashSet<>();
+                    int total = 1;
+
+                    for (int k = 0; k < 4; k++) {
+                        int nr = i + dr[k];
+                        int nc = j + dc[k];
+
+                        if (nr >= 0 && nr < m &&
+                            nc >= 0 && nc < n &&
+                            grid[nr][nc] == 1) {
+
+                            int index = nr * n + nc;
+                            int parent = ds.find(index);
+
+                            if (set.add(parent)) {
+                                total += ds.size[parent];
+                            }
+                        }
+                    }
+
+                    ans = Math.max(ans, total);
+                }
+            }
+        }
+
+        // Step 3: Handle already existing islands
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (grid[i][j] == 1) {
-                    int size = DFS(grid, i, j, islandId);
-                    maxArea = Math.max(maxArea, size);
-                    islandSizes.put(islandId, size);
-                    islandId++;
+                    int index = i * n + j;
+                    int parent = ds.find(index);
+                    ans = Math.max(ans, ds.size[parent]);
                 }
             }
         }
-        
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (grid[i][j] == 0) {
-                    Set<Integer> uniqueIslands = new HashSet<>();
-                    for (int[] dir : directions) {
-                        int x = i + dir[0];
-                        int y = j + dir[1];
-                        if (x >= 0 && x < m && y >= 0 && y < n && grid[x][y] != 0) {
-                            uniqueIslands.add(grid[x][y]);
-                        }
-                    }
-                    
-                    int sum = 1; 
-                    for (int id : uniqueIslands) {
-                        sum += islandSizes.get(id);
-                    }
-                    maxArea = Math.max(maxArea, sum);
-                }
-            }
-        }
-        
-        return maxArea;
+
+        return ans;
     }
 }
