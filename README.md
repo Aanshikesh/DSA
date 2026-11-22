@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Aanshikesh/DSA/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/Aanshikesh/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/Aanshikesh/DSA/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/Aanshikesh/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Aanshikesh/DSA/tree/master/0875-koko-eating-bananas) |
 | [0910-smallest-range-ii](https://github.com/Aanshikesh/DSA/tree/master/0910-smallest-range-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aanshikesh/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Aanshikesh/DSA/tree/master/0704-binary-search) |
+| [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/Aanshikesh/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aanshikesh/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Aanshikesh/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aanshikesh/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Aanshikesh/DSA/tree/master/0130-surrounded-regions) |
+| [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Aanshikesh/DSA/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Aanshikesh/DSA/tree/master/1254-number-of-closed-islands) |
 | [1361-validate-binary-tree-nodes](https://github.com/Aanshikesh/DSA/tree/master/1361-validate-binary-tree-nodes) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aanshikesh/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Aanshikesh/DSA/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aanshikesh/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/Aanshikesh/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Aanshikesh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aanshikesh/DSA/tree/master/1254-number-of-closed-islands) |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Aanshikesh/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Aanshikesh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0743-network-delay-time](https://github.com/Aanshikesh/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aanshikesh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Aanshikesh/DSA/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aanshikesh/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -702,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Aanshikesh/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aanshikesh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Aanshikesh/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Aanshikesh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aanshikesh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Aanshikesh/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -729,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aanshikesh/DSA/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aanshikesh/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/Aanshikesh/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Aanshikesh/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aanshikesh/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Aanshikesh/DSA/tree/master/0802-find-eventual-safe-states) |
@@ -887,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aanshikesh/DSA/tree/master/0292-nim-game) |
+| [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 ## Game Theory
 |  |
 | ------- |
@@ -1105,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Aanshikesh/DSA/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Aanshikesh/DSA/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Aanshikesh/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bellman–Ford Algorithm
 |  |
