@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3207-maximum-points-after-enemy-battles](https://github.com/Aanshikesh/DSA/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Aanshikesh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Aanshikesh/DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aanshikesh/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aanshikesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aanshikesh/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Aanshikesh/DSA/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aanshikesh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aanshikesh/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3492-maximum-containers-on-a-ship](https://github.com/Aanshikesh/DSA/tree/master/3492-maximum-containers-on-a-ship) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aanshikesh/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aanshikesh/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aanshikesh/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aanshikesh/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aanshikesh/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Aanshikesh/DSA/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Enumeration
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aanshikesh/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aanshikesh/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aanshikesh/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aanshikesh/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aanshikesh/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aanshikesh/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Aanshikesh/DSA/tree/master/3886-sum-of-sortable-integers) |
@@ -835,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aanshikesh/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Aanshikesh/DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Aanshikesh/DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Aanshikesh/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
