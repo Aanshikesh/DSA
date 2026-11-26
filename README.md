@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Aanshikesh/DSA/tree/master/1816-truncate-sentence) |
 | [1901-find-a-peak-element-ii](https://github.com/Aanshikesh/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [1995-count-special-quadruplets](https://github.com/Aanshikesh/DSA/tree/master/1995-count-special-quadruplets) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Aanshikesh/DSA/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aanshikesh/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aanshikesh/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/Aanshikesh/DSA/tree/master/2170-minimum-operations-to-make-the-array-alternating) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/Aanshikesh/DSA/tree/master/1361-validate-binary-tree-nodes) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Aanshikesh/DSA/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Aanshikesh/DSA/tree/master/1791-find-center-of-star-graph) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Aanshikesh/DSA/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Aanshikesh/DSA/tree/master/2285-maximum-total-importance-of-roads) |
 | [3310-remove-methods-from-project](https://github.com/Aanshikesh/DSA/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aanshikesh/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aanshikesh/DSA/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Aanshikesh/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Aanshikesh/DSA/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/Aanshikesh/DSA/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Algorithm X
 |  |
 | ------- |
